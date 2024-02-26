@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sainthazzard" alt="sainthazzard" /></a> </p>
 
-- 📫 How to reach me **hazzard1@putlook.es**
+- 📫 How to reach me **hazzard1@outlook.es**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
